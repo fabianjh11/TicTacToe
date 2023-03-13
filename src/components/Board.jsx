@@ -64,8 +64,8 @@ export function Board() {
       <br />
       <br />
       <div className="wins">
-        <h3>Victorias de O: <strong>{ contO/2 }</strong></h3>
-        <h3>Victorias de X: <strong>{ contX/2 }</strong></h3>
+        <h3>Victorias de O: <strong>{ contO }</strong></h3>
+        <h3>Victorias de X: <strong>{ contX }</strong></h3>
       </div>
       <br />
       <br />
